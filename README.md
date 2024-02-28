@@ -1,9 +1,6 @@
 # SQA-C
 Matakuliah tentang Internal Audit dan IT Audit Series, akan mempelajari tentang bagaimana Pengelolaan Software Wuality Assurance, Integrating Testing, Security dan Audit
 
-# SQA-B
-Matakuliah tentang Internal Audit dan IT Audit Series, akan mempelajari tentang bagaimana Pengelolaan Software Wuality Assurance, Integrating Testing, Security dan Audit
-
 # SQA (Software Quality Assurance)
 ![image](https://github.com/rplulbi/SQA/assets/15622730/14938008-e4cc-420e-9fc9-e1377dcd5966)
 
